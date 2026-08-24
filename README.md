@@ -5,6 +5,11 @@ Techaeris is a premium, sleek cyberpunk theme for Omarchy featuring high-tech cy
 ## Preview
 
 ![Techaeris Preview](preview.png)
+<img width="3200" height="2000" alt="Omarchy Files Terminal" src="https://github.com/user-attachments/assets/f8b57283-a5c2-41be-983f-6233d3b3c00c" />
+<img width="3200" height="2000" alt="Omarchy Files About" src="https://github.com/user-attachments/assets/b3f1cd2f-0368-4d2f-9432-e502fa238a87" />
+<img width="3200" height="2000" alt="Omarchy Menu" src="https://github.com/user-attachments/assets/b5ec1e27-a02f-4d5d-a689-ebbba00e5e08" />
+<img width="3200" height="2000" alt="Omarchy Browser Zen" src="https://github.com/user-attachments/assets/a54b1800-047f-4ec1-8b6d-269bfdc86fe5" />
+<img width="3200" height="2000" alt="Omarchy Dekstop" src="https://github.com/user-attachments/assets/39924b05-7d3b-4bc2-aae9-f4569ba55785" />
 
 ## Install
 
