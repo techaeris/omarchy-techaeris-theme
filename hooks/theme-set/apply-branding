@@ -1,0 +1,24 @@
+#!/bin/bash
+# Hook script to apply theme-specific branding (about and screensaver art)
+# Put this in ~/.config/omarchy/themes/techaeris/hooks/theme-set/apply-branding
+# Install with: omarchy hook install theme-set ~/.config/omarchy/themes/techaeris/hooks/theme-set/apply-branding
+
+THEME_NAME="$1"
+THEME_PATH="$HOME/.local/state/omarchy/current/theme"
+BRANDING_DIR="$HOME/.config/omarchy/branding"
+
+mkdir -p "$BRANDING_DIR"
+
+# 1. Update about.txt
+if [[ -f "$THEME_PATH/about.txt" ]]; then
+    cp "$THEME_PATH/about.txt" "$BRANDING_DIR/about.txt"
+elif [[ -f "$BRANDING_DIR/about.txt.bak" ]]; then
+    cp "$BRANDING_DIR/about.txt.bak" "$BRANDING_DIR/about.txt"
+fi
+
+# 2. Update screensaver.txt
+if [[ -f "$THEME_PATH/screensaver.txt" ]]; then
+    cp "$THEME_PATH/screensaver.txt" "$BRANDING_DIR/screensaver.txt"
+elif [[ -f "$BRANDING_DIR/screensaver.txt.bak" ]]; then
+    cp "$BRANDING_DIR/screensaver.txt.bak" "$BRANDING_DIR/screensaver.txt"
+fi
