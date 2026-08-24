@@ -12,9 +12,8 @@ Techaeris is a premium, sleek cyberpunk theme for Omarchy featuring high-tech cy
 You can install this theme directly using the built-in Omarchy theme manager command:
 
 ```bash
-omarchy theme install <git-repo-url>
+omarchy theme install https://github.com/techaeris/omarchy-techaeris-theme
 ```
-*(Replace `<git-repo-url>` with your shared repository link, e.g., `https://github.com/username/omarchy-techaeris-theme`)*
 
 Once installed, apply the theme:
 ```bash
