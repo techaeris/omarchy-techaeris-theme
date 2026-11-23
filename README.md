@@ -1,5 +1,10 @@
 # Omarchy Techaeris Theme
 
+> [!IMPORTANT]
+> **Project Status — Shared "As-Is" / Not Actively Maintained**
+>
+> The Techaeris theme was built primarily for my personal **Omarchy Linux** setup and is **not an actively maintained project**. It is shared publicly **"as-is"** in the hope that it may be useful to others — you are welcome to use, customize, or fork it freely, though issues and pull requests may not receive responses.
+
 Techaeris is a premium, sleek cyberpunk theme for Omarchy featuring high-tech cyan/teal accents, deep charcoal backgrounds, and a high-contrast futuristic layout. It includes gorgeous bespoke ASCII art for the System About and Screensaver views, matching menu colors, custom unlock screens, and an exquisite collection of theme-specific wallpapers.
 
 ## Preview
